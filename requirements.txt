@@ -1,0 +1,10 @@
+streamlit
+requests
+beautifulsoup4
+textstat
+sentence-transformers
+langchain
+faiss-cpu
+plotly
+transformers
+torch
